@@ -1,4 +1,4 @@
-@cherset "utf-8" ;
+@cherset:"utf-8" ;
 
 h1{
     font-size:50px;
@@ -7,7 +7,7 @@ h1{
     background-image: url("https://github.com/Amy-12/Amy-12.github.io/blob/master/Attachment-1.png?raw=true");
     background-size: 100%;
     padding: 20%;
-    margin: 0 0 60 0;
+    margin: 0px 0px 60px 0px;
 }
 
 #top{
