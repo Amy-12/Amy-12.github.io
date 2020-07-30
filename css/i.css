@@ -1,6 +1,26 @@
 @cherset "utf-8" ;
 
 h1{
-    font-size 30px;
+    font-size:50px;
+    text-align: left;
     font-family: "Tahoma" ,"arial black", "sans-serif";
+    background-image: url(../../week4/img/Attachment-1.png) ;
+    background-size: 100%;
+    padding: 20%;
+    margin: 0 0 20 0;
+}
+#me{
+    width: 10%;
+    float: left;
+    
+}
+#hehe{
+    float:left; 
+    width: 30%;
+    background-color: #d8bfd8;
+    
+}
+
+#huhu{
+    clear:both;
 }
