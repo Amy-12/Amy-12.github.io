@@ -4,7 +4,7 @@ h1{
     font-size:50px;
     text-align: left;
     font-family: "Tahoma";
-    background-image: url("https://github.com/Amy-12/Amy-12.github.io/blob/master/Attachment-1.png?raw=true") ;
+    background-image: url("https://github.com/Amy-12/Amy-12.github.io/blob/master/Attachment-1.png?raw=true");
     background-size: 100%;
     padding: 20%;
     margin: 0 0 60 0;
@@ -12,7 +12,7 @@ h1{
 
 #top{
     text-align: left;
-    margin-left: 30px
+    margin-left: 30px;
 }
 
 
@@ -63,8 +63,7 @@ div>ul>li{
 .pic1{
     margin-left: 0;
     float:
-        left;
-    
+        left; 
 }
 
 
@@ -84,6 +83,7 @@ div>ul>li{
     margin-top: 15%;
     margin-bottom: 15%;
 }
+
 .van {
     float: left;
 }
