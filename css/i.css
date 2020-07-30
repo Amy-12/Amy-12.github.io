@@ -3,24 +3,98 @@
 h1{
     font-size:50px;
     text-align: left;
-    font-family: "Tahoma" ,"arial black", "sans-serif";
-    background-image: url("https://github.com/Amy-12/Amy-12.github.io/blob/master/Attachment-1.png?raw=true");
+    font-family: "Tahoma";
+    background-image: url("https://github.com/Amy-12/Amy-12.github.io/blob/master/Attachment-1.png?raw=true") ;
     background-size: 100%;
-    padding: 22%;
-    margin: 0 0 20 0;
+    padding: 20%;
+    margin: 0 0 60 0;
 }
-#me{
-    width: 10%;
+
+#top{
+    text-align: left;
+    margin-left: 30px
+}
+
+
+div>ul>li{
+    display: block;
+    list-style: none;
+    text-align: center;
+    text-align: justify; 
+    font-family:  "monospace";
+    margin: 4px;
+}
+
+
+.inline1{
     float: left;
-    
+    margin-top: 5%;
+    margin-left: 20%;
+    margin-bottom: 10%;
 }
-#hehe{
-    
-    width: 30%;
-    background-color: #d8bfd8;
+
+.inline2{
+    float:left;
+    margin-top: 7%;
+    margin-left: 7%;
+    margin-bottom: 10%;
+    width:30%;
+     background-color: #d8bfd8;
+}
+
+
+.huhu{
+    clear:both;
+    text-align: left;
+    font-family: "Tahoma";
+    font-size: 35px;
+    margin: 100px 100px 100px 0px;
+    padding: 5%;
+    text-decoration-line: underline; 
+}
+
+
+.place-name{
+    float: left;
+    text-align: center; 
+    padding: 8%;
+}
+
+.pic1{
+    margin-left: 0;
+    float:
+        left;
     
 }
 
-#huhu{
+
+.pic2{
+    float:left;
+    margin-left: 30px;
+}
+
+.p1{
     clear:both;
+    font-family: "Hiragino Kaku Gothic ProN";
+    font-size: 18px;
+    text-align: justify;
+}
+
+.MFP{
+    margin-top: 15%;
+    margin-bottom: 15%;
+}
+.van {
+    float: left;
+}
+
+.van2 {
+    float: left;
+}
+.van3 {
+    float:left; 
+}
+
+a{
+    clear: both; 
 }
